@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a Software Developer with a flair for design. 
 
+### 🛠️ Git push, git pull, git outta my way! 🚀
+
+
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on full stack developement projects.
