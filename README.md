@@ -70,6 +70,3 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiksneu&show_icons=true&theme=tokyonight&count_private=true" alt="Karthik's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksneu&layout=compact&theme=tokyonight" alt="Karthik's Top Languages"/>
 </div>
-
-<!-- Wakatime Stats by @anmol098/waka-readme-stats -->
-![Your Name's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=karthiksneu&layout=compact)
