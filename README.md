@@ -71,3 +71,6 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksneu&layout=compact&theme=tokyonight" alt="Karthik's Top Languages"/>
 </div>
 
+<!-- GitHub Profile Summary Cards by @anuraghazra -->
+![Karthik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthiksneu&theme=github)
+
