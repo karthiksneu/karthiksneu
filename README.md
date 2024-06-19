@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 - 📫 How to reach me: karthiksunil.e@gmail.com or sunil.k@northeastern.edu
 - ⚡ Fun fact: In my free time I'm probably clicking pictures while listening to my favourite podcasts.
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiksneu&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksneu&layout=compact)
 
 
 ## 🛠️ Skills
