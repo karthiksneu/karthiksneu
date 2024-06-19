@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 - 📫 How to reach me: karthiksunil.e@gmail.com or sunil.k@northeastern.edu
 - ⚡ Fun fact: In my free time I'm probably clicking pictures while listening to my favourite podcasts.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiksneu&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksneu&layout=compact)
-
 
 ## 🛠️ Skills
 
@@ -67,4 +63,11 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karthik-sunil/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/whykarthik_)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiksneu&show_icons=true&theme=radical&count_private=true" alt="Karthik's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksneu&layout=compact&theme=radical" alt="Karthik's Top Languages"/>
+</div>
 
