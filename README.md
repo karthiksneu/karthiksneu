@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on full stack developement projects.
-- 🌱 I’m currently learning AWS.
-- 👯 I’m looking to collaborate on open-source projeects.
+- 🌱 I’m currently learning cloud, Gen Ai.
+- 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about front-end technology.
 - 📫 How to reach me: karthiksunil.e@gmail.com or sunil.k@northeastern.edu
 - ⚡ Fun fact: In my free time I'm probably clicking pictures while listening to my favourite podcasts.
