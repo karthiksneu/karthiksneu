@@ -14,10 +14,6 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
-## 🛠️ Skills
-
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,8 +59,8 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ## 🌐 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karthik-sunil/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/whykarthik_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karthik-sunil/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/whykarthik_)
 
 
 
