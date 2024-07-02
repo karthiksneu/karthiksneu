@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karthik-sunil/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/whykarthik_)
 
-
+## 📈 Github Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiksneu&show_icons=true&theme=tokyonight&count_private=true" alt="Karthik's GitHub stats"/>
