@@ -1,4 +1,4 @@
-# Hi there, I'm Karthik Sunil 👋
+# Namaste, I'm Karthik Sunil 👋
 
 Welcome to my GitHub profile! I'm a Software Developer with a flair for design. 
 
