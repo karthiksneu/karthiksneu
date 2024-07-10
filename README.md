@@ -52,6 +52,6 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 
 [![](https://visitcount.itsvg.in/api?id=karthiksneu&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-![yoda](https://github.com/karthiksneu/karthiksneu/assets/114313259/1d5a2cb0-84fc-4945-8a73-2d366d38acc8)
+!![yoda](https://github.com/karthiksneu/karthiksneu/assets/114313259/1d5a2cb0-84fc-4945-8a73-2d366d38acc8)
 
 
