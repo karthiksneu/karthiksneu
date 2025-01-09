@@ -1,4 +1,4 @@
-# Namaste, I'm Karthik Sunil 👋
+# Namaste, I'm Karthik Sunil 🙏🏽
 
 Welcome to my GitHub profile! I'm a Software Developer with a flair for design. 
 
@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 - 🔭 Currently diving into the deep, dark world of full-stack development.
 - 🌱 On a never-ending quest to master the clouds and tame the Gen AI beasts.
 - 👯 Looking for partners-in-crime for some open-source shenanigans.
-- 💬 Front-end tech questions? Bring it on! I'll talk your ear off.
 - 📫 Reach me at: karthiksunil.e@gmail.com or sunil.k@northeastern.edu. Carrier pigeons also welcome.
-- ⚡ Fun fact: When I'm not coding, I'm probably snapping pictures and tuning into my favorite podcasts. Multi-tasking level: Expert.
+- ⚡ Fun fact: When I'm not online, I'm probably snapping pictures and tuning into my favorite podcasts. 
 
 
 ## 🛠️ Skills
