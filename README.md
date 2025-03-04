@@ -46,7 +46,6 @@ Welcome to my GitHub profile! I'm a Software Developer with a flair for design.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiksneu&show_icons=true&theme=tokyonight&count_private=false" alt="Karthik's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksneu&layout=compact&theme=tokyonight" alt="Karthik's Top Languages"/>
 </div>
 
 
